@@ -1,6 +1,6 @@
 # groundworks
 The Ground Works Community Engagement Strategies Workshop Video Website
-http://groundworks.osu/
+https://ginnykatz.github.io/groundworks/
 
 
 
